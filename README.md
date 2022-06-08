@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌟 I'm currently learning data-related technologies on Datacamp.
+- 📗 Check out my Datacamp profile.
+
+#### My favourite Zen of Python 🌠
+> Readability counts.
