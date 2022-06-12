@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌟 I'm currently learning data-related technologies on ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F). 
-- I have been exposed to:
+- ✈️ I have been exposed to:
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+- 😉 I am very good at googling.
 
 #### My favourite Zen of Python 🌠
 > Readability counts.
