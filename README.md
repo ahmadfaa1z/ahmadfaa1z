@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌟 I'm currently learning data-related technologies on Datacamp. 
+- 🌟 I'm currently learning data-related technologies on [Datacamp](https://www.datacamp.com/profile/ahmadfaaiz6). 
 - 😉 I'm very good at googling.
 - 🌠 My favourite Zen of Python:
   > Readability counts.
